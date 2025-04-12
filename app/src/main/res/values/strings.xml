@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unit_Conveter</string>
+    <string name="enter_value_warning">Please enter a value.</string>
+    <string name="result_format">%1$s %2$s = %3$s %4$s</string>
+
+    <string-array name="unit_list">
+        <item>Feet</item>
+        <item>Inches</item>
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Yards</item>
+    </string-array>
+</resources>
