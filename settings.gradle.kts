@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "lottieanimation"
+=======
+rootProject.name = "sign_in"
+>>>>>>> 544a59e (files added)
 include(":app")
  

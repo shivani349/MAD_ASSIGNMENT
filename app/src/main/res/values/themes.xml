@@ -1,9 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.Lottieanimation" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.Sign_in" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> 544a59e (files added)
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
     <style name="Theme.Lottieanimation" parent="Base.Theme.Lottieanimation" />
+=======
+    <style name="Theme.Sign_in" parent="Base.Theme.Sign_in" />
+>>>>>>> 544a59e (files added)
 </resources>

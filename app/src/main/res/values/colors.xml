@@ -2,5 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<<<<<<< HEAD
     <color name="red">#FF0000</color>
+=======
+    <color name="blue">#0000FF</color>
+    <color name="red">#FF0000</color>
+
+>>>>>>> 544a59e (files added)
 </resources>

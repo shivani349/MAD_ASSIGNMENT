@@ -1,3 +1,9 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Lottie Animation</string>
+=======
+    <string name="app_name">Login</string>
+    <string name="default_web_client_id">859586931996-2stbf56adik1i7q6meikl0jvmvmb6bi3.apps.googleusercontent.com</string>
+
+>>>>>>> 544a59e (files added)
 </resources>
